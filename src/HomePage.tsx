@@ -12,7 +12,7 @@ export default function HomePage() {
         <Typography variant="h6" sx={{ mb: 4, color: 'white' }}>
           Modify Your Environment with Augmented Reality.
         </Typography>
-        <img src='https://aczyvz1jdj.ufs.sh/f/maw3yw2MQ30DpDMDrwdo1SxnfPXKibU2GWaZql6CVJBg0euL' alt="Home Screen" style={{ maxWidth: '100%', height: '500px', borderRadius: '40px' }} />
+        <img src='https://aczyvz1jdj.ufs.sh/f/maw3yw2MQ30DjJnDgLbZs3aiHIy7w4PCzkVbprLxte5D6Fcu' alt="Home Screen" style={{ maxWidth: '100%', height: '500px', borderRadius: '40px' }} />
       </Box>
 
       {/* Key Features Section */}
