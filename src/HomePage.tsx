@@ -1,5 +1,5 @@
 import Layout from './layout';
-import { Typography, Grid, Box } from '@mui/material';
+import { Typography, Grid, Box, Link } from '@mui/material';
 
 export default function HomePage() {
   return (
@@ -58,11 +58,11 @@ export default function HomePage() {
           Get Started
         </Typography>
         <Typography variant="body1" sx={{ mb: 4, }}>
-          Ready to feel? Coming soon the the App Store.
+          Ready to feel? Available on the Apple App Store.
         </Typography>
-        {/*<Link href='https://apps.apple.com/in/app/zenscape/id6741926525'>
+        {<Link href='https://apps.apple.com/gb/app/visionedit/id6749544179?platform=iphone'>
           <img src='https://utfs.io/f/j1ytmAM8ijT5xxtosw7ypD0IXK6UH7WFcVGlOoEP14d3qCkw' alt="Download Now" style={{ padding: '12px 30px' }} />
-        </Link>*/}
+        </Link>}
       </Box>
     </Layout>
   );
